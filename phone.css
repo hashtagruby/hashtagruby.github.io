@@ -1,0 +1,20 @@
+.box{
+    height: 200px;
+    width: 500px;
+    background-color: bisque;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.box h2{
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
+.box p{
+    color: chocolate;
+    font-size: 1.1rem;
+
+}
